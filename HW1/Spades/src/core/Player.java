@@ -7,7 +7,7 @@ package core;
 
 /**
  *
- * @author apion
+ * @author 
  */
 public abstract class Player implements IPlayer {
     
