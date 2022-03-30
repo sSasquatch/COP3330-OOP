@@ -16,7 +16,7 @@ import javax.swing.JLabel;
 
 /**
  *
- * @author Anthony
+ * @author 
  */
 public class CardUi {
 
