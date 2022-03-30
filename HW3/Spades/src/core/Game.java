@@ -12,7 +12,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author apion
+ * @author 
  */
 public class Game {
 
