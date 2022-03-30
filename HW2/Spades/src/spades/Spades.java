@@ -10,7 +10,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author apion
+ * @author 
  */
 public class Spades {
 
