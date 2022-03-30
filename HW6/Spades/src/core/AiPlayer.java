@@ -10,7 +10,7 @@ import constants.Constants.Suit;
 
 /**
  *
- * @author apion
+ * @author 
  */
 public class AiPlayer extends Player {
 
