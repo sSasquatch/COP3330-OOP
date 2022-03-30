@@ -18,7 +18,7 @@ import javax.swing.JPanel;
 
 /**
  *
- * @author Anthony
+ * @author 
  */
 public class AiPlayerUi extends JPanel {
     private AiPlayer ai;
