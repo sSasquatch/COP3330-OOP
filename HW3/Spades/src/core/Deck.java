@@ -17,7 +17,7 @@ import java.util.Set;
 
 /**
  *
- * @author apion
+ * @author 
  */
 public class Deck {
 
