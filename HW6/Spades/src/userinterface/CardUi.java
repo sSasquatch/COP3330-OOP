@@ -7,7 +7,7 @@ package userinterface;
 
 /**
  *
- * @author Anthony
+ * @author 
  */
 public class CardUi {
     
