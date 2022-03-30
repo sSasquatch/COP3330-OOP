@@ -7,7 +7,7 @@ package core;
 
 /**
  *
- * @author apion
+ * @author 
  */
 public class HumanPlayer extends Player {
 
