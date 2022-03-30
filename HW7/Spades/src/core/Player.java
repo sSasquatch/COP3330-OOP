@@ -9,7 +9,7 @@ import java.util.ArrayList;
 
 /**
  *
- * @author apion
+ * @author 
  */
 public abstract class Player implements IPlayer {
 
