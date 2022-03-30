@@ -11,7 +11,7 @@ import constants.Constants.Color;
 
 /**
  *
- * @author apion
+ * @author 
  */
 public class Card {
 
