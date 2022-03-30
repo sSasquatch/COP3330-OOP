@@ -7,7 +7,7 @@ package constants;
 
 /**
  *
- * @author apion
+ * @author 
  */
 public class Constants {
     
