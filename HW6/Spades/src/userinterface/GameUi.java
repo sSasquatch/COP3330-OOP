@@ -20,7 +20,7 @@ import javax.swing.JPanel;
 
 /**
  *
- * @author Anthony
+ * @author 
  */
 public class GameUi {
     //the game
