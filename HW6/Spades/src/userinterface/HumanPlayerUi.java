@@ -19,7 +19,7 @@ import javax.swing.JPanel;
 
 /**
  *
- * @author Anthony
+ * @author 
  */
 public class HumanPlayerUi extends JPanel {
     private HumanPlayer human;
