@@ -11,7 +11,7 @@ import userinterface.GameUi;
 
 /**
  *
- * @author apion
+ * @author 
  */
 public class Spades {
 
